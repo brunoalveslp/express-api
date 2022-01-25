@@ -1,0 +1,25 @@
+{
+  "name": "express-api-dio",
+  "version": "1.0.0",
+  "description": "simple microservice",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./",
+    "build": "tsc -p ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunoalveslp/express-api.git"
+  },
+  "author": "Bruno Alves",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brunoalveslp/express-api/issues"
+  },
+  "homepage": "https://github.com/brunoalveslp/express-api#readme",
+  "devDependencies": {
+    "@types/node": "^17.0.11",
+    "typescript": "^4.5.5"
+  }
+}
