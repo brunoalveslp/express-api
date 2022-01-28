@@ -1,0 +1,12 @@
+http
+browser
+oque e backend e front end
+html css {responsividade} js`{dom es6 fetch ajax modules}
+react {componentes funcionais hooks contexto rotas css e js `style components`}
+next js
+
+banco relacional mysql
+node `rest jwt autenticacao orm {prisma} testes consumir apis externas`
+clean code
+git github
+typescript
